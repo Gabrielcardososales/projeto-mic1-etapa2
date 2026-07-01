@@ -1,0 +1,14 @@
+# Ignorar o ambiente virtual
+venv/
+.venv/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar os arquivos de log que você vai gerar
+logs/*.csv
+logs/*.txt
+
+# Ignorar arquivos do VS Code
+.vscode/
